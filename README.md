@@ -1,40 +1,39 @@
-<h1 align="center">👋 Olá, eu sou Rafael Costa</h1>
+## Olá, sou o Rafael! Tudo bem?
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+Faço Sistemas de Informação, e atualmente estudo para ser desenvolvedor back-end. A linguagem que mais utilizo é o Java, e estou vendo conceitos de POO, UML, JDBC, JavaFX, Spring Boot, JPA, Hibernate, Maven, MySQL, Lambda, e MongoDB.
 
-<p align="left"> 
-  Faço de Sistemas de Informação, e atualmente estou estudando para ser desenvolvedor Back-end. A linguagem que mais utilizo atualmente é o Java.
-</p>
-
-## 🚀 Linguagens de Programação
-[![My Skills](https://skillicons.dev/icons?i=java)](https://skillicons.dev)<br><br>
-
-## 🛠️ Ferramentas e Tecnologias
-[![My Skills](https://skillicons.dev/icons?i=vscode,git,github)](https://skillicons.dev)<br><br>
-
-## 📫 Contato
-
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rafaelcostaoliveira.dev@gmail.com)](rafaelcostaoliveira.dev@gmail.com)
-[![Linkedin: Rafael](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafwcosta/)](https://www.linkedin.com/in/rafwcosta/) <br><br>
-
+##
 
 <table>
   <tr>
     <td>
-      <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api?username=rafwcosta&theme=dark&hide_border=false&include_all_commits=true"
-        alt="Github Stats"
-      />
+      <img align="left" src="https://github-readme-stats.vercel.app/api?username=rafwcosta&theme=dark&hide_border=false&include_all_commits=true" alt="Github Stats"/>
     </td>
     <td>
-      <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafwcosta&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
-        alt="Github Stats"
-      />
+      <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafwcosta&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Github Stats"/>
     </td>
   </tr>
 </table>
 
-Fique à vontade para entrar em contato comigo para discutir colaborações, projetos ou qualquer outro assunto relacionado à programação. 😊 <br><br>
+##
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rafael-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
+  <img align="center" alt="Rafael-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg">
+  <img align="center" alt="Rafael-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Rafael-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafael-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
+  <img align="center" alt="Rafael-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
+</div>
+
+<div> <br>
+  <a href="https://instagram.com/rafwcosta" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:rafaelcostaoliveira.dev"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/rafwcosta" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
+
+##
+
+![Snake animation](https://github.com/rafwcosta/rafwcosta/blob/output/github-contribution-grid-snake.svg)
+
+Fique à vontade para entrar em contato comigo para discutir colaborações, projetos ou qualquer outro assunto relacionado à programação. 😉 <br><br>
