@@ -35,9 +35,9 @@ Faço Sistemas de Informação, e atualmente estudo para ser desenvolvedor back-
 ##
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YourUser/YourUser/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YourUser/YourUser/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YourUser/YourUser/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rafwcosta/rafwcosta/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rafwcosta/rafwcosta/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/rafwcosta/rafwcosta/output/github-contribution-grid-snake.svg">
 </picture>
 
 Fique à vontade para entrar em contato comigo para discutir colaborações, projetos ou qualquer outro assunto relacionado à programação. 😉 <br><br>
