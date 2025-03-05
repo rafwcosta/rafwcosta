@@ -1,4 +1,4 @@
-## Olá, sou o Rafael! Tudo bem?
+## Olá, sou Rafael! Tudo bem?
 
 Faço Sistemas de Informação, e atualmente estudo para ser desenvolvedor back-end. A linguagem que mais utilizo é o Java, e estou estudando conceitos de POO, UML, JDBC, JavaFX, Spring Boot, JPA, Hibernate, Maven, MySQL, Lambda, e MongoDB.
 
