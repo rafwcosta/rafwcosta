@@ -1,6 +1,6 @@
 ## Olá, sou o Rafael! Tudo bem?
 
-Faço Sistemas de Informação, e atualmente estudo para ser desenvolvedor back-end. A linguagem que mais utilizo é o Java, e estou vendo conceitos de POO, UML, JDBC, JavaFX, Spring Boot, JPA, Hibernate, Maven, MySQL, Lambda, e MongoDB.
+Faço Sistemas de Informação, e atualmente estudo para ser desenvolvedor back-end. A linguagem que mais utilizo é o Java, e estou estudando conceitos de POO, UML, JDBC, JavaFX, Spring Boot, JPA, Hibernate, Maven, MySQL, Lambda, e MongoDB.
 
 ##
 
@@ -25,6 +25,8 @@ Faço Sistemas de Informação, e atualmente estudo para ser desenvolvedor back-
   <img align="center" alt="Rafael-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
   <img align="center" alt="Rafael-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
 </div>
+
+##
 
 <div> <br>
   <a href="https://instagram.com/rafwcosta" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
