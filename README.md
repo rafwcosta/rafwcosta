@@ -1,6 +1,6 @@
 ## Olá, sou Rafael! Tudo bem?
 
-Faço Sistemas de Informação, e atualmente estudo para ser desenvolvedor back-end. A linguagem que mais utilizo é o Java, Pyhton e JavaScript, e estou estudando conceitos de POO, UML, JDBC, JavaFX, Spring Boot, JPA, Hibernate, Maven, MySQL, Lambda, e MongoDB.
+Faço Sistemas de Informação, e atualmente estudo para ser desenvolvedor back-end. A linguagem que mais utilizo é o Java, Python e JavaScript, e estou estudando conceitos de POO, UML, JDBC, JavaFX, Spring Boot, JPA, Hibernate, Maven, MySQL, Lambda, e MongoDB.
 
 ##
 
