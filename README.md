@@ -1,6 +1,6 @@
 ## Olá, sou Rafael! Tudo bem?
 
-Faço Sistemas de Informação, e atualmente estudo para ser desenvolvedor back-end. A linguagem que mais utilizo é o Java, Python e JavaScript, e estou estudando conceitos de POO, UML, JDBC, JavaFX, Spring Boot, JPA, Hibernate, Maven, MySQL, Lambda, e MongoDB.
+Faço Sistemas de Informação, e atualmente estudo para ser desenvolvedor de sistemas. A linguagem que mais utilizo é o Java e Python.
 
 ##
 
@@ -14,17 +14,6 @@ Faço Sistemas de Informação, e atualmente estudo para ser desenvolvedor back-
     </td>
   </tr>
 </table>
-
-##
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafael-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
-  <img align="center" alt="Rafael-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg">
-  <img align="center" alt="Rafael-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Rafael-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafael-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafael-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
-</div>
 
 ##
 
